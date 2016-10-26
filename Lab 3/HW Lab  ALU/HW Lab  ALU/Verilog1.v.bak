@@ -1,0 +1,4 @@
+module ALU1(in1,in2, control, o);
+   input [4:0] in1, in2;
+	output [4:0] o;
+endmodule;
